@@ -2,3 +2,4 @@ git status
 git add [file name]
 git add .
 git reset [file name] //unstage a file while retaining the changes in working directory
+git diff //difference of what is changed but bot staged
