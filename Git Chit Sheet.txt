@@ -8,4 +8,5 @@ git commit -m "[descriptive message]"
 
 //SETUP
 //Configuring user information used across all local repositories
-git config --global user.name "username"
+git config --global user.name "[username]"
+git config --global user.email "[valid-email]"
