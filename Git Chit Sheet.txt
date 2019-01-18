@@ -5,3 +5,7 @@ git reset [file name] //unstage a file while retaining the changes in working di
 git diff //difference of what is changed but not staged
 git diff --staged // diff of what is changed but not yet committed
 git commit -m "[descriptive message]"
+
+//SETUP
+//Configuring user information used across all local repositories
+git config --global user.name "username"
