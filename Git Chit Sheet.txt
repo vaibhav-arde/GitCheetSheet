@@ -15,3 +15,10 @@ git config --global color.ui auto
 git config --global user.name "[username]"
 git config --global user.email "[valid-email]"
 git config --global color.ui auto
+
+//SetUp and init
+git init
+//initialize an existing directory as a GIT repository.
+
+git clone [url]
+//retrieve an entire repository from a hosted location via URL
