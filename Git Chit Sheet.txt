@@ -24,4 +24,4 @@ git clone [url]
 //retrieve an entire repository from a hosted location via URL
 
 git branch
-//List your branches
+//List your available branches 
